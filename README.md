@@ -1,2 +1,2 @@
 # AJPinView
-A simple pin view
+A simple and customizable pin view
